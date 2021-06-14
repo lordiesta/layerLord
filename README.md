@@ -1,41 +1,64 @@
 ![GitHub Logo](https://cdn.discordapp.com/attachments/716776722070110291/848289725471391854/20210529_220005.jpg)<br>
-# Anti-Cursed-Darkness-Squad v4.2
-Cloudflare UAM, Captcha & JS Challenge Bypass<br>BlazingFast Bypass<br>OVH UAM Bypass<br>DDOS Guard (js) Bypass<br>Strong DDOS Layer 7 & 4<br>Private Tool<br><br><p> Thanks to R00tS3c  and wachirachoomsiri for their scripts. This tool is an one-in-all DDOS Tool with the best scripts. Only the panel it self and the proxy-crawler is coded by z3ntl3 root. Others are not part of our code!
+# layerLord
+layerLord Bir çok siteyi çökertmeye yarayan,
+
+Cloudflare UAM,
+Captcha & JS Challenge Bypass
+BlazingFast Bypass
+OVH UAM Bypass
+DDOS Guard (js)
+Bypass içeren bir ddos toolu.
+
+Senaryoları için R00tS3c ve wachirachoomsiri'ye teşekkürler. Bu araç, en iyi komut dosyalarına sahip, hepsi bir arada bir DDOS Aracıdır. Yalnızca panelin kendisi ve proxy tarayıcısı z3ntl3 kökü tarafından kodlanır. Diğerleri kodumuzun bir parçası değil!
+
+NOTICE: When proxies banned, then renew it by "proxy-crawl" command.
+
+We are not responsable for what u do with this tool.
+
+Bu tool z3ntl3 ve R00tS3c e aittir. Sadece türkçe editlidir.
+
+Powered By xhus3yin
  
 <p> NOTICE: When proxies banned, then renew it by "proxy-crawl" command.</p>
 <br><p>We are not responsable for what u do with this tool.
 
-# Proofs
+# KANITLAR
 <p> Atom Stresser Downed: https://www.youtube.com/watch?v=UyQ_hEFnsBg</p>
 <p> Dos Ninja Stresser Downed: https://www.youtube.com/watch?v=_BPUP68Xqag</p>
 <p> Spy Hackerz Downed: https://www.youtube.com/watch?v=YsrAGwlnM4U</p>
 <p> Turk Hack Team Downed: https://www.youtube.com/watch?v=pqlYKMa0Q5I</p>
-# Installation
 
-    Go into your Anti-Cursed-Darkness-Squad Installation Folder
-    Or install it by:
-    
-    git clone https://github.com/Z3NTL3/Anti-Cursed-Darkness-Squad-BETA
-    cd Anti-Cursed-Darkness-Squad-BETA
-   
-    INSTALLATION
-    
-    sudo apt install python3
-    python3 installer.py
- 
-    ERROR FIX:
-    chmod +x fixer
-    ./fixer
-    
-    
-    To run after installation:
-    ./darkness
-    
-    When proxies banned, then renew it by "proxy-crawl" command.
-    
-    We recommend using 16gb ram , 1-10 GBPS machine to have the good power! 
+# KURULUM
+
+LayerLord Kurulum Klasörünüze gidin Ve şu şekilde kurun:
+
+git clone https://github.com/xhus3yin/layerLord
+
+cd LayerLord
+
+# Bu aşamadan sonra
+
+sudo apt install python3
+
+python3 installer.py
+
+HATA DÜZELTME KODLARI : chmod +x fixer ./fixer
+
+Kurulumdan sonra çalıştırmak için: ./darkness
+
+Proxy'ler yasaklandığında, "proxy-crawl" komutuyla yenileyin.
+
+İyi güce sahip olmak için 16gb ram, 1-10 GBPS makine kullanmanızı öneririz!
+
+# Düzeltmeler
+Her yöntemde her hata düzeltildi :)
+
+# TEŞEKKÜRLER.
+Beğendiyseniz Ne Mutlu Bize :).
+
+# Orjinal Yapım Ve Global Sürüm.
+
+https://github.com/Z3NTL3/Anti-Cursed-Darkness-Squad-BETA
 
 
-# Fixed
-Fixed every bug on every method :)
   
