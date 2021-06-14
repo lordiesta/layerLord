@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cloudflare-bypasser": "0.0.3",
+    "cloudscraper": "^4.6.0",
+    "cluster": "^0.7.7",
+    "crypto-random-string": "^3.3.1",
+    "flood": "^4.5.4",
+    "fs": "0.0.1-security",
+    "net": "^1.0.2",
+    "path": "^0.12.7",
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2",
+    "zombie": "^6.1.4"
+  }
+}
