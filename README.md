@@ -11,17 +11,14 @@ Bypass içeren bir ddos toolu.
 
 Senaryoları için R00tS3c ve wachirachoomsiri'ye teşekkürler. Bu araç, en iyi komut dosyalarına sahip, hepsi bir arada bir DDOS Aracıdır. Yalnızca panelin kendisi ve proxy tarayıcısı z3ntl3 kökü tarafından kodlanır. Diğerleri kodumuzun bir parçası değil!
 
-NOTICE: When proxies banned, then renew it by "proxy-crawl" command.
+# DİKKAT: Proxy'ler yasaklandığında "proxy-crawl" komutuyla yenileyin.
 
-We are not responsable for what u do with this tool.
+# Bu araçla yaptıklarınızdan sorumlu değiliz..
 
 Bu tool z3ntl3 ve R00tS3c e aittir. Sadece türkçe editlidir.
 
 Powered By xhus3yin
  
-<p> NOTICE: When proxies banned, then renew it by "proxy-crawl" command.</p>
-<br><p>We are not responsable for what u do with this tool.
-
 # KANITLAR
 <p> Atom Stresser Downed: https://www.youtube.com/watch?v=UyQ_hEFnsBg</p>
 <p> Dos Ninja Stresser Downed: https://www.youtube.com/watch?v=_BPUP68Xqag</p>
